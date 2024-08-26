@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.textst{
+  color: transparent;
+  -webkit-text-stroke: 1.5px white;
+}
